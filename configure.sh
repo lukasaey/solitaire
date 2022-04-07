@@ -1,1 +1,1 @@
-cmake -S src -B bin/debug -G "MinGW Makefiles"
+cmake -S . -B bin/debug -G "MinGW Makefiles"
